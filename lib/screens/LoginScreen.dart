@@ -42,7 +42,7 @@ class LoginScreen extends StatelessWidget {
               barrierDismissible: false,
               builder: (context) {
                 return AlertDialog(
-                  title: Text("Verification Code"),
+                  title: Text("Verification Code  "),
                   content: Column(
                     mainAxisSize: MainAxisSize.min,
                     children: <Widget>[
